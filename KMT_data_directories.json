@@ -1,0 +1,74 @@
+{
+  "wordpiece": {
+    "ku": {
+      "train": "KMT_Data/Datasets/Model_1/train_all_ku_tokenized_wordpiece.txt",
+      "val": "KMT_Data/Datasets/Model_1/val_all_ku_tokenized_wordpiece.txt",
+      "test": "KMT_Data/Datasets/Model_1/test_all_ku_tokenized_wordpiece.txt",
+      "test_Tanzil": "KMT_Data/Datasets/Model_2/Tanzil/Tanzil_test_10_ku_tokenized_wordpiece.txt",
+      "test_TED": "KMT_Data/Datasets/Model_2/TED/TED_test_10_ku_tokenized_wordpiece.txt",
+      "test_WordNet": "KMT_Data/Datasets/Model_2/WordNet/WordNet_test_10_ku_tokenized_wordpiece.txt"
+    },
+    "en": {
+      "train": "KMT_Data/Datasets/Model_1/train_all_en_tokenized.txt",
+      "val": "KMT_Data/Datasets/Model_1/val_all_en_tokenized.txt",
+      "test": "KMT_Data/Datasets/Model_1/test_all_en_tokenized.txt",
+      "test_Tanzil": "KMT_Data/Datasets/Model_2/Tanzil/Tanzil_test_10_en_tokenized.txt",
+      "test_TED": "KMT_Data/Datasets/Model_2/TED/TED_test_10_en_tokenized.txt",
+      "test_WordNet": "KMT_Data/Datasets/Model_2/WordNet/WordNet_test_10_en_tokenized.txt"
+    }
+  },
+  "bpe": {
+    "ku": {
+      "train": "KMT_Data/Datasets/Model_1/train_all_ku_tokenized_bpe.txt",
+      "val": "KMT_Data/Datasets/Model_1/val_all_ku_tokenized_bpe.txt",
+      "test": "KMT_Data/Datasets/Model_1/test_all_ku_tokenized_bpe.txt",
+      "test_Tanzil": "KMT_Data/Datasets/Model_2/Tanzil/Tanzil_test_10_ku_tokenized_bpe.txt",
+      "test_TED": "KMT_Data/Datasets/Model_2/TED/TED_test_10_ku_tokenized_bpe.txt",
+      "test_WordNet": "KMT_Data/Datasets/Model_2/WordNet/WordNet_test_10_ku_tokenized_bpe.txt"
+    },
+    "en": {
+      "train": "KMT_Data/Datasets/Model_1/train_all_en_tokenized.txt",
+      "val": "KMT_Data/Datasets/Model_1/val_all_en_tokenized.txt",
+      "test": "KMT_Data/Datasets/Model_1/test_all_en_tokenized.txt",
+      "test_Tanzil": "KMT_Data/Datasets/Model_2/Tanzil/Tanzil_test_10_en_tokenized.txt",
+      "test_TED": "KMT_Data/Datasets/Model_2/TED/TED_test_10_en_tokenized.txt",
+      "test_WordNet": "KMT_Data/Datasets/Model_2/WordNet/WordNet_test_10_en_tokenized.txt"
+    }
+  },
+  "unigram": {
+    "ku": {
+      "train": "KMT_Data/Datasets/Model_1/train_all_ku_tokenized_unigram.txt",
+      "val": "KMT_Data/Datasets/Model_1/val_all_ku_tokenized_unigram.txt",
+      "test": "KMT_Data/Datasets/Model_1/test_all_ku_tokenized_unigram.txt",
+      "test_Tanzil": "KMT_Data/Datasets/Model_2/Tanzil/Tanzil_test_10_ku_tokenized_unigram.txt",
+      "test_TED": "KMT_Data/Datasets/Model_2/TED/TED_test_10_ku_tokenized_unigram.txt",
+      "test_WordNet": "KMT_Data/Datasets/Model_2/WordNet/WordNet_test_10_ku_tokenized_unigram.txt"
+    },
+    "en": {
+      "train": "KMT_Data/Datasets/Model_1/train_all_en_tokenized.txt",
+      "val": "KMT_Data/Datasets/Model_1/val_all_en_tokenized.txt",
+      "test": "KMT_Data/Datasets/Model_1/test_all_en_tokenized.txt",
+      "test_Tanzil": "KMT_Data/Datasets/Model_2/Tanzil/Tanzil_test_10_en_tokenized.txt",
+      "test_TED": "KMT_Data/Datasets/Model_2/TED/TED_test_10_en_tokenized.txt",
+      "test_WordNet": "KMT_Data/Datasets/Model_2/WordNet/WordNet_test_10_en_tokenized.txt"
+    }
+  },
+  "WordPunct": {
+    "ku": {
+      "train": "KMT_Data/Datasets/Model_1/train_all_ku_tokenized_WordPunct.txt",
+      "val": "KMT_Data/Datasets/Model_1/val_all_ku_tokenized_WordPunct.txt",
+      "test": "KMT_Data/Datasets/Model_1/test_all_ku_tokenized_WordPunct.txt",
+      "test_Tanzil": "KMT_Data/Datasets/Model_2/Tanzil/Tanzil_test_10_ku_tokenized_WordPunct.txt",
+      "test_TED": "KMT_Data/Datasets/Model_2/TED/TED_test_10_ku_tokenized_WordPunct.txt",
+      "test_WordNet": "KMT_Data/Datasets/Model_2/WordNet/WordNet_test_10_ku_tokenized_WordPunct.txt"
+    },
+    "en": {
+      "train": "KMT_Data/Datasets/Model_1/train_all_en_tokenized.txt",
+      "val": "KMT_Data/Datasets/Model_1/val_all_en_tokenized.txt",
+      "test": "KMT_Data/Datasets/Model_1/test_all_en_tokenized.txt",
+      "test_Tanzil": "KMT_Data/Datasets/Model_2/Tanzil/Tanzil_test_10_en_tokenized.txt",
+      "test_TED": "KMT_Data/Datasets/Model_2/TED/TED_test_10_en_tokenized.txt",
+      "test_WordNet": "KMT_Data/Datasets/Model_2/WordNet/WordNet_test_10_en_tokenized.txt"
+    }
+  }
+}

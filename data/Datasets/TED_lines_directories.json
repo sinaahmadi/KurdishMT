@@ -1,0 +1,38 @@
+{
+	"0_25": {
+		"ku": [
+			"TED_lines/0_25_TED_test_10_ku_tokenized_bpe.txt",
+			"TED_lines/0_25_TED_test_10_ku_tokenized_unigram.txt",
+			"TED_lines/0_25_TED_test_10_ku_tokenized_wordpiece.txt",
+			"TED_lines/0_25_TED_test_10_ku_tokenized_WordPunct.txt"
+		],
+	    "en": ["TED_lines/0_25_TED_test_10_en_tokenized.txt"]
+	},
+	"25_50": {
+		"ku": [
+			"TED_lines/25_50_TED_test_10_ku_tokenized_bpe.txt",
+			"TED_lines/25_50_TED_test_10_ku_tokenized_unigram.txt",
+			"TED_lines/25_50_TED_test_10_ku_tokenized_wordpiece.txt",
+			"TED_lines/25_50_TED_test_10_ku_tokenized_WordPunct.txt"
+		],
+	    "en": ["TED_lines/25_50_TED_test_10_en_tokenized.txt"]
+	},
+	"50_75": {
+		"ku": [
+			"TED_lines/50_75_TED_test_10_ku_tokenized_bpe.txt",
+			"TED_lines/50_75_TED_test_10_ku_tokenized_unigram.txt",
+			"TED_lines/50_75_TED_test_10_ku_tokenized_wordpiece.txt",
+			"TED_lines/50_75_TED_test_10_ku_tokenized_WordPunct.txt"
+		],
+	    "en": ["TED_lines/50_75_TED_test_10_en_tokenized.txt"]
+	},
+	"75_100": {
+		"ku": [
+			"TED_lines/75_100_TED_test_10_ku_tokenized_bpe.txt",
+			"TED_lines/75_100_TED_test_10_ku_tokenized_unigram.txt",
+			"TED_lines/75_100_TED_test_10_ku_tokenized_wordpiece.txt",
+			"TED_lines/75_100_TED_test_10_ku_tokenized_WordPunct.txt"
+		],
+		"en": ["TED_lines/75_100_TED_test_10_en_tokenized.txt"]
+	}
+}
