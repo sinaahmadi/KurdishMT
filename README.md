@@ -1,6 +1,6 @@
 # Kurdish Machine Translation
 
-This repository contains the data and the models described in the paper ["Towards Machine Translation for the Kurdish Language"](). Please note that `ku` and `en` refer to [Sorani Kurdish](https://en.wikipedia.org/wiki/Sorani) (=`ckb` in ISO 639-3) and English, respectively.
+This repository contains the data and the models described in the paper ["Towards Machine Translation for the Kurdish Language"](https://arxiv.org/abs/2010.06041). Please note that `ku` and `en` refer to [Sorani Kurdish](https://en.wikipedia.org/wiki/Sorani) (=`ckb` in ISO 639-3) and English, respectively.
 
 ---
 
@@ -21,9 +21,15 @@ Shortly after this project, a set of parallel corpora containing Sorani-Kurmanji
 
 ## Cite this paper
 
-If you use any part of the data, please consider citing **[this paper]()** as follows:
+If you use any part of the data, please consider citing **[this paper](https://arxiv.org/abs/2010.06041)** as follows:
 
-	@misc{
+	@misc{ahmadi2020machine,
+	      title={Towards Machine Translation for the Kurdish Language}, 
+	      author={Sina Ahmadi and Mariam Masoud},
+	      year={2020},
+	      eprint={2010.06041},
+	      archivePrefix={arXiv},
+	      primaryClass={cs.CL}
 	}
 
 The link to the published version of the paper will be also provided later.
