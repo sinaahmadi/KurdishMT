@@ -21,18 +21,21 @@ Shortly after this project, a set of parallel corpora containing Sorani-Kurmanji
 
 ## Cite this paper
 
-If you use any part of the data, please consider citing **[this paper](https://arxiv.org/abs/2010.06041)** as follows:
+If you use any part of the data, please consider citing **[this paper](https://www.aclweb.org/anthology/2020.loresmt-1.12/)** as follows:
 
-	@misc{ahmadi2020machine,
-	      title={Towards Machine Translation for the Kurdish Language}, 
-	      author={Sina Ahmadi and Mariam Masoud},
-	      year={2020},
-	      eprint={2010.06041},
-	      archivePrefix={arXiv},
-	      primaryClass={cs.CL}
+	@inproceedings{ahmadi-masoud-2020-towards,
+	    title = "Towards Machine Translation for the {K}urdish Language",
+	    author = "Ahmadi, Sina  and
+	      Masoud, Maraim",
+	    booktitle = "Proceedings of the 3rd Workshop on Technologies for MT of Low Resource Languages",
+	    month = dec,
+	    year = "2020",
+	    address = "Suzhou, China",
+	    publisher = "Association for Computational Linguistics",
+	    url = "https://www.aclweb.org/anthology/2020.loresmt-1.12",
+	    pages = "87--98"
 	}
 
-The link to the published version of the paper will be also provided later.
 
 ## License
 
